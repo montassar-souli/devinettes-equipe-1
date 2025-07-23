@@ -22,21 +22,21 @@ export const teamsData: TeamData[] = [
                 number: 1,
                 icon: "🌱",
                 title: "Gestion du Trafic",
-                text: "Je te fais gagner du temps sans klaxonner, Je suis coordonné et bien programmé. Je gère les routes comme un chef de gare."
+                text: "Je te fais gagner du temps sans klaxonner, je suis coordonné et bien programmé. je gère les routes comme un chef de gare."
             },
             {
                 id: 2,
                 number: 2,
                 icon: "🌍",
                 title: "Stationnement Intelligent",
-                text: "Je permets aux habitants de trouver une place, Avec mon application, le stress s'efface. Je suis rapide, pratique et souvent apprécié. Qui suis-je pour les voitures stationnées ?"
+                text: "Je permets aux habitants de trouver une place avec mon application le stress s'efface. Je suis rapide, pratique et souvent apprécié. Qui suis-je pour les voitures stationnées ?"
             },
             {
                 id: 3,
                 number: 3,
                 icon: "♻️",
                 title: "Énergie Solaire",
-                text: "Je capte le soleil, non pour bronzer, mais pour éclairer et chauffer la ville. Qui suis-je ?"
+                text: "Je capte le soleil, non pour bronzer, mais pour éclairer et chauffer la ville.\nQui suis-je ?"
             }
         ]
     },
@@ -49,14 +49,14 @@ export const teamsData: TeamData[] = [
                 number: 1,
                 icon: "🌱",
                 title: "Gestion de l'Eau",
-                text: "Je coule dans les tuyaux, je nourris la ville. Je suis précieuse et recyclée, jamais gaspillée. Qui suis-je dans cette cité futée ?"
+                text: "Je coule dans les tuyaux, je nourris la ville. Je suis précieuse et recyclée, jamais gaspillée.\nQui suis-je dans cette cité futée ?"
             },
             {
                 id: 2,
                 number: 2,
                 icon: "🌍",
                 title: "Collecte Intelligente",
-                text: "Je me remplis sans me plaindre, je signale quand je déborde. Les camions viennent me vider grâce à mes capteurs. Que suis-je ?"
+                text: "Je me remplis sans me plaindre, je signale quand je déborde. Les camions viennent me vider grâce à mes capteurs.\nQue suis-je ?"
             },
             {
                 id: 3,
